@@ -6,7 +6,7 @@ public class Cat {
 	
 	public Cat() {
 		this.alive = true;
-		this.hunger = 50;
+		this.hunger = 50; //percentage level 
 	}
 	
 	public boolean feeds() {
